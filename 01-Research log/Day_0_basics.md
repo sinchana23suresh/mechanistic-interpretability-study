@@ -89,9 +89,9 @@ Today was my first day learning Machine Learning and Deep Learning. The concepts
 
 ---
 
-## Plan for Tomorrow
+## Plan further
 
 - Read *The Illustrated Transformer* by Jay Alammar.
 - Read *The Illustrated GPT-2*.
 - Watch **But What is a GPT?** by 3Blue1Brown.
-- Draw a transformer block from memory after studying it.
+- Understand working of a transformer and associated parts.
